@@ -1,0 +1,14 @@
+{
+    "name": "package_ceshi/package_ceshi",
+    "description": "a pratice of packagist",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bread",
+            "email": "1376035611@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

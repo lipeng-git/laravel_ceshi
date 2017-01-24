@@ -1,2 +1,2 @@
 # laravel_ceshi
-a practice by laravek framework
+a practice by laravel frame
